@@ -1,4 +1,4 @@
-export default [
+const mapStlyes = [
   {
     featureType: 'all',
     elementType: 'all',
@@ -99,3 +99,4 @@ export default [
     ],
   },
 ];
+export default mapStlyes;
